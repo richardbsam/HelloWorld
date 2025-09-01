@@ -6,7 +6,7 @@ The software simply outputs the phrase **"Hello, World!"** to the screen. While 
 
 The purpose of creating this software is to strengthen my understanding of coding basics, program execution, and proper project documentation practices that I can apply to larger, real-world projects.  
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://www.loom.com/share/4b07e044c41e4e239b31402392c45504?sid=86ce3f95-f08c-402d-9aa8-13d9baa21f1f)
 
 # Development Environment
 
