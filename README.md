@@ -1,14 +1,3 @@
-# Useful Websites
-
-{Make a list of websites that you found helpful in this project}
-* [Web Site Name](http://url.link.goes.here)
-* [Web Site Name](http://url.link.goes.here)
-
-
-
-
-
-
 # Overview
 
 This project is a simple **Hello World** program, one of the most fundamental exercises in software development. My goal with this project is to build a solid foundation in programming by starting small, practicing version control, and documenting my work clearly.  
